@@ -6,3 +6,5 @@ ln -s <location of file> .bashrc
 ln -s <location of file> .screenrc
 ln -s <location of file> .bash_aliases
 ```
+ 
+ 
